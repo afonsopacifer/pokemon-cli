@@ -31,7 +31,7 @@ $ npm test
 Publish:
 
 ```sh
-$ npm punlish
+$ npm publish
 ```
 
 ## Versioning
